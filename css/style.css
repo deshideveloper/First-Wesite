@@ -1,7 +1,46 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
 .box1{
     
     background-color: aqua;
     padding: 5% ;
     border: 5px double greenyellow;
     text-align: center;  
+}
+.box2{
+    
+}
+
+header{
+    border: 2px solid ;
+    margin-bottom: 100px;
+    
+}
+
+nav > img{
+    
+    width: 50px;
+}
+
+nav {
+    text-align: center;
+    display: inline;
+    
+}
+
+nav>ul>li{
+    display: inline;
+    margin: 5px;
+    
+}
+nav li > a {
+    text-align: center;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
 }
